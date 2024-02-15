@@ -1,4 +1,4 @@
-# Recognize Emotions from Speech
+# Recognize Emotions from Speech (Project in Progress)
 In this project, I extract features from audio files using the Librosa module and then use a classifier to recognize the emotions from the audio files.
 
 The features I am are extracting are:
